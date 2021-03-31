@@ -2,6 +2,6 @@
     "name": "robincee/social_enabler",
     "type": "drupal-module",
     "require": {
-        "drupal/social": "^9.3"
+        "drupal/social": "^10.0"
     }
 }
